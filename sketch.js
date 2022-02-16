@@ -1,6 +1,5 @@
 let flock;
 let hash_size;
-let debug = false;
 let last_frame_rate = 0;
 let flock_size_slider;
 let debug_checkbox;
